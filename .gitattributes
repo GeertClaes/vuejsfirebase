@@ -1,4 +1,4 @@
-build/* linguist-vendored=false
-config/* linguist-vendored=false
-dist/* linguist-vendored=false
+build/* linguist-generated=true
+config/* linguist-generated=true
+dist/* linguist-generated=true
 node-modules/* linguist-vendored=false
